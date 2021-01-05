@@ -68,8 +68,7 @@ h1{
  }
  #baby{
     border-left: 7px solid;
-    border-image: linear-gradient(180deg,blue , cyan);
-    border-im
+    border-image: linear-gradient(180deg, blue, cyan);
     border-image-slice: 1;
  }
  footer{
